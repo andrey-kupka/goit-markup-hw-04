@@ -38,6 +38,7 @@ button {
 
 .contacts {
     font-style: normal;
+    margin-bottom: 20px;
 }
 
 img {
@@ -395,10 +396,10 @@ align-items: center;
     color: var(--white-color);
 }
 
-.address {
-    margin-top: 20px;
+/*.address {
+    margin-bottom: 20px;
 }
-
+*/
 .address-item:not(:last-child) {
     line-height: 1.71;
     letter-spacing: 0.03em;
